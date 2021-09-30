@@ -1,3 +1,4 @@
+#PABLO MODIFICA EL TEXTO
 # ------------------------------------------------------
 # Convierte un número decimal positivo a binario usando un 
 #   determinado número de bits.
